@@ -7,7 +7,9 @@ All data is dynamically fetched from a backend using React Query and displayed u
 
 ## 📁 Project Structure
 /project-root
+
 ├── /backend # Express + MongoDB
+
 ├── /frontend # React + MUI + React Query
 
 ## 🛠️ Prerequisites
